@@ -1,0 +1,1 @@
+export(LCSSRatio, LCSS, LCSSCalc, LCSSRatioCalc, LCSSTranslation, Frechet, DTW, EditDist, TrajCheck, AveTranslate, StartEndTranslate, DistanceCheck, DistanceSq)
